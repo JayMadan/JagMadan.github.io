@@ -4,4 +4,4 @@ url: "http://jaymadan.github.io"
 markdown: kramdown
 
 locale: "en-US"
-
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
