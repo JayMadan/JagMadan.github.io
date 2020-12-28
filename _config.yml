@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
-title: Welcome to my homepage!
+title: "The life of Jag"
 url: "http://jaymadan.github.io"
 markdown: kramdown
+
+locale: "en-US"
+
